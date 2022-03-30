@@ -1,7 +1,7 @@
 # Ivan Didichenko
 ### Junior backend developer and blockchain enthusiast
----
 ### Contact Information
+---
 - [Telegram - @virginonline](t.me/virginonline)
 - Email - anipeptun@yahoo.com 
 - Discord - ////#9041 
@@ -44,6 +44,7 @@ public abstract GitHubUser{
 ---
 
 ### Languages
+
 - Russian \- Native
 - English \- B2
 - Chinese \- B2
