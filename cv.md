@@ -2,14 +2,14 @@
 ### Junior backend developer and blockchain enthusiast
 ---
 ### Contact Information
-[Telegram - @virginonline](t.me/virginonline) <br>
-Email - anipeptun@yahoo.com <br>
-Discord - ////#9041
+- [Telegram - @virginonline](t.me/virginonline)
+- Email - anipeptun@yahoo.com 
+- Discord - ////#9041 
 ---
 
 ### About me
 ---
-I like programming and blockchain tech, i want to be fullstack blockchain developer and develop the web3 industry
+I like programming and blockchain tech, i want to be fullstack blockchain developer and develop the web3 industry<br>
 ---
 ### Skills:
 ---
