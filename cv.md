@@ -2,9 +2,9 @@
 ### Junior backend developer and blockchain enthusiast
 ### Contact Information
 ---
-- [Telegram - @virginonline](t.me/virginonline)
-- Email - anipeptun@yahoo.com 
-- Discord - ////#9041 
+- [Telegram - @virginonline](t.me/virginonline) <br>
+- Email - anipeptun@yahoo.com <br>
+- Discord - ////#9041 <br>
 ---
 
 ### About me
