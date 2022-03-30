@@ -1,18 +1,17 @@
 # Ivan Didichenko
 ### Junior backend developer and blockchain enthusiast
+---
 ### Contact Information
----
 - [Telegram - @virginonline](t.me/virginonline) <br>
-- Email - anipeptun@yahoo.com <br>
-- Discord - ////#9041 <br>
----
+- Email - anipeptun@yahoo.com <br> 
+- Discord - ////#9041
 
-### About me
 ---
+### About me
 I like programming and blockchain tech, i want to be fullstack blockchain developer and develop the web3 industry<br>
+
 ---
 ### Skills:
----
 ```java
 public class virginonline extends GitHubUser {
     
