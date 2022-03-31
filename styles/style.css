@@ -1,0 +1,30 @@
+hr{
+    height: 2px;
+    border-radius: 7px 7px 7px 7px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-right: 110px;
+    background: white;
+}
+pre,code{
+    width:80%;
+    height: 415px;
+    color: white;
+    background-color:rgb(76, 77, 77)
+}
+h1,h2 {
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', sans-serif;
+}
+h4,p {
+    color:rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+}
+li{
+    color: white;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 10px;
+}
+body{
+    background-color:rgb(48, 48, 48);
+}
